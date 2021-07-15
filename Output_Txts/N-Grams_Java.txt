@@ -1,0 +1,323 @@
+File read and Unigram generation time is : 144 ms.
+Bigram and Trigram generation time is : 77 ms.
+
+# Word   %
+
+ -Unigrams-
+
+1 bir -> 3,2071645260
+2 ve -> 1,6333054304
+3 de -> 0,8975383639
+4 bu -> 0,8234744072
+5 da -> 0,8195762634
+6 için -> 0,6597540379
+7 daha -> 0,6558559537
+8 gibi -> 0,5028553605
+9 ki -> 0,4999317825
+10 kadar -> 0,4823903143
+11 ne -> 0,4590016901
+12 diye -> 0,4083263576
+13 çok -> 0,3868867755
+14 her -> 0,3634981513
+15 o -> 0,3596000671
+16 en -> 0,3449821472
+17 Gregor -> 0,2962558866
+18 kendi -> 0,2777398825
+19 Bu -> 0,2709181905
+20 şey -> 0,2709181905
+21 ama -> 0,2689691484
+22 zaman -> 0,2533767223
+23 sonra -> 0,2358352840
+24 hiç -> 0,2212173790
+25 bütün -> 0,2085485458
+26 değil -> 0,2085485458
+27 büyük -> 0,2075740099
+28 iyi -> 0,2046504319
+29 un -> 0,2027013749
+30 başka -> 0,2027013749
+31 Bir -> 0,2007523328
+32 olan -> 0,1988032758
+33 Malva -> 0,1949051768
+34 bile -> 0,1919815987
+35 onu -> 0,1900325567
+36 pek -> 0,1900325567
+37 Yakov -> 0,1861344427
+38 insan -> 0,1802872866
+39 ya -> 0,1783382446
+40 Kitap -> 0,1754146665
+41 bölüm -> 0,1724910736
+42 çünkü -> 0,1705420315
+43 doğru -> 0,1705420315
+44 onun -> 0,1627458334
+45 mi -> 0,1598222405
+46 öyle -> 0,1598222405
+47 dedi -> 0,1588477194
+48 in -> 0,1549496204
+49 Ama -> 0,1539750993
+50 Vasili -> 0,1520260423
+51 olarak -> 0,1481279433
+52 içinde -> 0,1481279433
+53 Ne -> 0,1432553083
+54 hiçbir -> 0,1432553083
+55 böyle -> 0,1403317302
+56 var -> 0,1383826733
+57 ” -> 0,1374081522
+58 ona -> 0,1354590952
+59 kendini -> 0,1344845742
+60 iki -> 0,1315609962
+61 az -> 0,1305864602
+62 olduğunu -> 0,1257138401
+63 Montaigne -> 0,1227902621
+64 mı -> 0,1198666841
+65 ben -> 0,1188921630
+66 » -> 0,1159685776
+67 olduğu -> 0,1159685776
+68 üzerinde -> 0,1130450070
+69 fazla -> 0,1110959575
+70 göre -> 0,1101214215
+71 ile -> 0,1071978509
+72 yalnız -> 0,1062233225
+73 önce -> 0,1042742729
+74 arasında -> 0,1032997519
+75 aynı -> 0,1032997519
+76 nasıl -> 0,1023252159
+77 bana -> 0,1023252159
+78 yere -> 0,1013506874
+79 karşı -> 0,1013506874
+80 Ben -> 0,0984271169
+81 yine -> 0,0984271169
+82 biri -> 0,0974525884
+83 ancak -> 0,0974525884
+84 gün -> 0,0964780599
+85 bunu -> 0,0955035388
+86 olur -> 0,0945290178
+87 hep -> 0,0935544819
+88 kez -> 0,0935544819
+89 türlü -> 0,0935544819
+90 O -> 0,0916054323
+91 a -> 0,0916054323
+92 bizim -> 0,0906309038
+93 biraz -> 0,0896563828
+94 yok -> 0,0896563828
+95 yeni -> 0,0877073333
+96 Seryojka -> 0,0877073333
+97 artık -> 0,0867328048
+98 benim -> 0,0867328048
+99 şeyi -> 0,0857582763
+100 yerde -> 0,0857582763
+--> Top 100 Unigram ordering time is : 920 ms.
+
+ -Bigrams-
+
+1 uzun uzun -> 0,0000718829
+2 değildir uzun -> 0,0000718829
+3 güzel güzel -> 0,0000702399
+4 hemen üzerine -> 0,0000693661
+5 hemen ilk -> 0,0000677896
+6 hemen hemen -> 0,0000654249
+7 ilk adam -> 0,0000637059
+8 tek uzun -> 0,0000636204
+9 bizi hem -> 0,0000627942
+10 bizi uzun -> 0,0000627942
+11 hemen geri -> 0,0000622719
+12 vardır Her -> 0,0000622244
+13 olsun hem -> 0,0000619680
+14 iş değildir -> 0,0000619680
+15 değildir son -> 0,0000611417
+16 3 Her -> 0,0000606289
+17 Her iş -> 0,0000598311
+18 geri geri -> 0,0000592708
+19 vardı beni -> 0,0000583306
+20 hemen beni -> 0,0000583306
+21 kötü kötü -> 0,0000577798
+22 kızkardeşi küçük -> 0,0000576943
+23 tek adam -> 0,0000570390
+24 tek tek -> 0,0000563078
+25 şeyler değildir -> 0,0000561843
+26 kızkardeşi şimdi -> 0,0000561558
+27 küçük adam -> 0,0000555575
+28 güzel şeyler -> 0,0000555385
+29 beni adam -> 0,0000548167
+30 değildir Fakat -> 0,0000537056
+31 şeyler vardı -> 0,0000536011
+32 insanın üzerine -> 0,0000534871
+33 küçük küçük -> 0,0000534207
+34 iş bize -> 0,0000534207
+35 olsun bize -> 0,0000534207
+36 küçük olsun -> 0,0000534207
+37 ağır ağır -> 0,0000534207
+38 değildir insanın -> 0,0000528793
+39 olsun beni -> 0,0000527084
+40 vardı Fakat -> 0,0000512364
+41 Her insanın -> 0,0000510559
+42 üzerine gelen -> 0,0000509799
+43 yol vardı -> 0,0000504481
+44 kötü şeyler -> 0,0000503721
+45 şeyler vardır -> 0,0000503721
+46 gelen ilk -> 0,0000498213
+47 ilk gelen -> 0,0000498213
+48 değildir onları -> 0,0000495744
+49 kendisini uzun -> 0,0000495744
+50 değildir İnsan -> 0,0000495744
+51 kendisine son -> 0,0000491945
+52 nın beni -> 0,0000491945
+53 onları ilk -> 0,0000490046
+54 Sonra kızkardeşi -> 0,0000484632
+55 vardır Fakat -> 0,0000481498
+56 gelen vardı -> 0,0000480833
+57 kolay değildir -> 0,0000479219
+58 onları Her -> 0,0000478649
+59 bizi kendine -> 0,0000476370
+60 kendine iş -> 0,0000470102
+61 gelen kızkardeşi -> 0,0000469247
+62 tek söz -> 0,0000468013
+63 kızkardeşi olsa -> 0,0000461555
+64 hemen başını -> 0,0000457186
+65 başını hemen -> 0,0000457186
+66 insanın iş -> 0,0000455856
+67 olsun yol -> 0,0000455856
+68 Fakat şimdi -> 0,0000450633
+69 yana onları -> 0,0000450158
+70 yer vardı -> 0,0000449303
+71 Sonra ağır -> 0,0000448734
+72 başladı kızkardeşi -> 0,0000446169
+73 vardır İnsan -> 0,0000444460
+74 İnsan kötü -> 0,0000444460
+75 kendisini adam -> 0,0000444460
+76 hemen gelir -> 0,0000441421
+77 oldu Her -> 0,0000438762
+78 belki uzun -> 0,0000437907
+79 başını yana -> 0,0000435153
+80 üzerine yeniden -> 0,0000434583
+81 gelen ağır -> 0,0000434488
+82 bizi İnsan -> 0,0000433064
+83 e kötü -> 0,0000429645
+84 işi uzun -> 0,0000429645
+85 sanki ağır -> 0,0000427365
+86 olsa ağır -> 0,0000427365
+87 babası kendisine -> 0,0000425466
+88 yer vardır -> 0,0000422237
+89 olsa beni -> 0,0000421667
+90 insanlar vardı -> 0,0000417773
+91 şimdi kendisini -> 0,0000415969
+92 şeyler insanın -> 0,0000413310
+93 iş başını -> 0,0000413120
+94 ise hem -> 0,0000413120
+95 hemen işi -> 0,0000409891
+96 belki kızkardeşi -> 0,0000407707
+97 kendisine su -> 0,0000405522
+98 yoktur hemen -> 0,0000402008
+99 gelir bize -> 0,0000398874
+100 Her şeyin -> 0,0000398874
+--> Top 100 Bigram ordering time is : 4202 ms.
+
+ -Trigrams-
+
+1 Sonra ağır ağır -> 0,0000000328
+2 değildir Fakat tam -> 0,0000000309
+3 belki kızkardeşi küçük -> 0,0000000298
+4 hem kendisi hem -> 0,0000000294
+5 yoktur hemen beni -> 0,0000000290
+6 bizi uzun süre -> 0,0000000288
+7 tek başına geri -> 0,0000000287
+8 kızkardeşi bunun üzerine -> 0,0000000277
+9 kimi ağır ağır -> 0,0000000276
+10 ağır ağır kimi -> 0,0000000276
+11 gerçekten uzun uzun -> 0,0000000273
+12 kötü şeyler oldu -> 0,0000000270
+13 hem annesi hem -> 0,0000000252
+14 kötü kötü baktı -> 0,0000000242
+15 beni ondan yana -> 0,0000000238
+16 olacak iş değildir -> 0,0000000236
+17 nın gözleri üzerine -> 0,0000000234
+18 yoktu Fakat şimdi -> 0,0000000220
+19 olmuş şeyler değildir -> 0,0000000219
+20 Fakat şimdi şu -> 0,0000000215
+21 söz olsa olsa -> 0,0000000213
+22 bol güzel güzel -> 0,0000000212
+23 nın başına gelen -> 0,0000000202
+24 eden tek adam -> 0,0000000200
+25 değildir Nasıl olsun -> 0,0000000199
+26 olmayan şeyler vardır -> 0,0000000196
+27 hem sık hem -> 0,0000000196
+28 belli değildir İnsan -> 0,0000000193
+29 bize verdiği güzel -> 0,0000000191
+30 hem kadının hem -> 0,0000000189
+31 değildi hemen işi -> 0,0000000184
+32 olsa ağır eski -> 0,0000000179
+33 birçok yol vardı -> 0,0000000177
+34 yandan belki uzun -> 0,0000000175
+35 babası kendisine bunun -> 0,0000000174
+36 önünde ağır ağır -> 0,0000000172
+37 hemen Müdür Bey -> 0,0000000170
+38 olsun bize orada -> 0,0000000161
+39 boyunca ağır ağır -> 0,0000000161
+40 adam tekrar üzerine -> 0,0000000159
+41 vardır halkın Her -> 0,0000000158
+42 bizi doğanın güzel -> 0,0000000157
+43 gelir insanın buna -> 0,0000000153
+44 hemen geri dönüp -> 0,0000000152
+45 kimi şöyle kimi -> 0,0000000151
+46 üzerine yavaş yavaş -> 0,0000000151
+47 tek şeyin kendisi -> 0,0000000150
+48 adeta tek tek -> 0,0000000148
+49 bunun üzerine yavaş -> 0,0000000147
+50 ilk sözleri üzerine -> 0,0000000147
+51 iş olursa olsun -> 0,0000000146
+52 olursa olsun bize -> 0,0000000146
+53 sesi uzun süre -> 0,0000000144
+54 bunun üzerine rahat -> 0,0000000144
+55 gözleri üzerine yavaş -> 0,0000000144
+56 belli değildi hemen -> 0,0000000141
+57 başına gelen şu -> 0,0000000141
+58 şeyler vardı bugün -> 0,0000000141
+59 yüksek sesle söz -> 0,0000000139
+60 yoksa insanlar bizi -> 0,0000000138
+61 kendisini Ancak şimdi -> 0,0000000138
+62 Sonra kızkardeşi annesinin -> 0,0000000137
+63 hemen beni kendilerine -> 0,0000000136
+64 olsun halkın olsun -> 0,0000000135
+65 ölüm karşısında son -> 0,0000000135
+66 bunun üzerine gerçekten -> 0,0000000133
+67 kızkardeşi Grete tek -> 0,0000000133
+68 bunlar Sonra kızkardeşi -> 0,0000000132
+69 şeyler değildir Kimi -> 0,0000000131
+70 üstünde olsun ister -> 0,0000000131
+71 babası Müdür Bey -> 0,0000000131
+72 biz kolay kolay -> 0,0000000131
+73 olmuş kadın küçük -> 0,0000000130
+74 Böylece ağır ağır -> 0,0000000130
+75 kendine zor gelen -> 0,0000000127
+76 oysa şimdi kendisini -> 0,0000000126
+77 kendisini adam eder -> 0,0000000126
+78 önemli şeyler üstüne -> 0,0000000126
+79 karşılık verdi Her -> 0,0000000124
+80 der Platon bize -> 0,0000000123
+81 istediği yoktu şimdi -> 0,0000000122
+82 değildir aslında Çünkü -> 0,0000000121
+83 kızkardeşi elini babasının -> 0,0000000120
+84 yandan biz iş -> 0,0000000120
+85 sesle söz etmek -> 0,0000000119
+86 son adım değildir -> 0,0000000119
+87 adım değildir son -> 0,0000000119
+88 hem içindeki hem -> 0,0000000119
+89 uygun gelen şu -> 0,0000000119
+90 Müdür Bey e -> 0,0000000119
+91 sonunda hem kendisi -> 0,0000000118
+92 boyunca yol yol -> 0,0000000118
+93 bize yararlı olmuş -> 0,0000000117
+94 adamın yanına vardı -> 0,0000000116
+95 demek Çok güzel -> 0,0000000115
+96 gördüğü iş bize -> 0,0000000115
+97 yoktu fakat elf -> 0,0000000115
+98 onları demiş Bütün -> 0,0000000114
+99 kadın küçük ince -> 0,0000000114
+100 gelen ses bundan -> 0,0000000113
+--> Top 100 Trigram ordering time is : 6159 ms.
+
+Word Count : 102614
+Unigram Count : 31267
+Bigram Count : 88813
+Trigram Count : 101001
+
+Total time is : 11502 ms.
